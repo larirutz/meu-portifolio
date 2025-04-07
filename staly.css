@@ -3,6 +3,7 @@
     padding: 0;
 }
 cabeçalho{
-    background-color: aqua
-    color(srgb red green rgb(1, 1, 17))
+    background-color: aqua;
+    color: black;
+    width: 20px;
 }
